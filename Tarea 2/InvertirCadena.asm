@@ -1,4 +1,4 @@
-;autor: Claudia Chum
+;autor: Marco Paz
 
 %include	'libreriaCadenas.asm'
 
